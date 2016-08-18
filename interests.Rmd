@@ -1,0 +1,83 @@
+---
+title: "Interests"
+author: "Document Author"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
+
+
+I have several interests that frequentlty change
+
+I really like the Hithchhikers guide to the galaxy (HHGTTG)
+reddit imgur twitter
+
+
+Software development
+
+Open source 
+I use github / bitbucket gitlab for many things 
+
+as a place for [templates ](https://github.com/RMHogervorst/templates)
+scientific [search strategies](https://github.com/RMHogervorst/science/blob/master/searchstrategy.md)
+
+
+visualization
+
+skepticism
+
+Game of thrones 
+memory palaces
+speciaalbier beer
+monty python
+Sherlock holmes
+Sci-fi (dark matter the expanse)
+fantasy 
+
+podcasts currently listening to: 
+datascience:(dataskeptic, d)
+other: stuff you should know, Fw thinknk
+software engineering daily, 
+
+the world in words,
+agos,
+philopsofy bites,
+freakonomics radio
+probalbys cience
+the changelog,
+codeNewbie
+Still untitled: the adam savage project
+radiolab
+
+sawbones
+note to self
+what the point
+reply all
+data stories
+linear digressions
+the greatest generation
+partially derivatieve
+talking machines
+schmanners
+testing in the pub
+triangulation
+serial
+talking code
+track changes
+floss weekly
+securty now 
+not so standard deviations
+
+the r podcast
+codebreaker
+this american lfe
+science:disrubt
+adam ruins everyhing
+r-talk
+science vs
+r world news
+more perfect
+regequs for commits 
+teh effort report

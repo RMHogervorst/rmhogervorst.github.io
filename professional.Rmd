@@ -1,0 +1,46 @@
+---
+title: "Professional"
+author: "Roel M Hogervorst"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
+
+Open source software
+contributions to the swirl package
+
+## R packages created:
+on cran: badgecreatr
+on github only: 
+
+imdb (read in information from the omdb database)
+heisertransform a way to transform 3 probabilities of a dataset into coordinates
+on a 2 dimensional representation. 
+
+
+interest: datascience, visualisation, commuicty, data journalism
+
+datasets created: 
+
+* Werewolf*
+a dataset with people based on general properties of American people. This 
+includes BMI, date of birth, moonphase, sex, favorite food (top 50 foods in USA),
+allergies (8 most common types), etnicity in three types , haircolor, eycolor and
+as a bonus big five scale measures according to general properties of the 5 
+scales. Oh and probabilies of being a normal person, werewolf or wererabbit. 
+
+useful for prediction and visualisation. 
+
+*TNG* 
+a dataset containing every scene description, and every line said in all the
+episodes of the sci-fi series star trek The Next Generation. Useful for text-mining
+and perhaps natural language processing (NLP). 
+
+
+
+publciations
+
+work experience
+Leiden university       

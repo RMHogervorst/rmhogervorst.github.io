@@ -1,0 +1,36 @@
+---
+title: "index"
+author: "Roel M. Hogervorst"
+date: "18 augustus 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[about me](index.html) |[Professional](professional.html) | Interests   | 
+
+
+Hi! I'm Roel, 
+I really like r, programming and many other nerd-like things. I really like to
+create things such as datasets, programs and handy tools. 
+I often find myself building tools for personal use that are usefull for others as well.
+
+Interested in R, open source, open science and reproducible research. Currently predicting and explaining student succes in Leiden University.
+
+
+In recent years I have produced some r-packages (for example [badgecreatr](https://cran.r-project.org/web/packages/badgecreatr/index.html))
+
+You can find my [blogposts](http://rmhogervorst.nl/cleancode/) on [r-bloggers](https://www.r-bloggers.com/author/roel-m-hogervorst/)
+
+
+Contact me for issues on github. 
+email hogervorst (dot) rm (at) gmail.com
+
+linked in
+
+
+Interests
+
+I’m fond of Data Science and a Renthusiast.
