@@ -8,7 +8,24 @@ output:
     highlight: github
 ---
 
+Psychology Bsc Leiden University
+Medical Psychology Msc Tilburg University
+
+Currently at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/roel-hogervorst)
+I also took part in the [Coursera data science specialisation](https://www.coursera.org/specializations/jhu-data-science).
+
+publciations
+
+work experience
+Leiden university  
+
+
+
+interest: 
+datascience, visualisation, commuicty, data journalism
 Open source software
+
+
 contributions to the swirl package
 
 ## R packages created:
@@ -20,9 +37,8 @@ heisertransform a way to transform 3 probabilities of a dataset into coordinates
 on a 2 dimensional representation. 
 
 
-interest: datascience, visualisation, commuicty, data journalism
 
-datasets created: 
+##datasets created: 
 
 * Werewolf*
 a dataset with people based on general properties of American people. This 
@@ -39,8 +55,4 @@ episodes of the sci-fi series star trek The Next Generation. Useful for text-min
 and perhaps natural language processing (NLP). 
 
 
-
-publciations
-
-work experience
-Leiden university       
+     
