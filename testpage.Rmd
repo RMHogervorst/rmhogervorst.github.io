@@ -1,0 +1,31 @@
+---
+title: "About Roel"
+author: "Roel M. Hogervorst"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
+
+[about me](index.html) |[Professional](professional.html) | Interests   | 
+
+
+Hi! I'm Roel, 
+I really like r, programming and many other nerd-like things. I really like to
+create things such as datasets, programs and handy tools. 
+I often find myself building tools for personal use that are usefull for others as well.
+
+
+
+
+In recent years I have produced some r-packages (for example [badgecreatr](https://cran.r-project.org/web/packages/badgecreatr/index.html))
+
+You can find my [blogposts](http://rmhogervorst.nl/cleancode/) on [r-bloggers](https://www.r-bloggers.com/author/roel-m-hogervorst/)
+
+
+
+
+Interests
+
+I’m fond of Data Science and a R enthusiast.
