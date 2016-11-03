@@ -1,0 +1,36 @@
+---
+title: "About me"
+author: "Roel M. Hogervorst"
+date: "18 augustus 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+![avatar of me](https://avatars3.githubusercontent.com/u/9538040?v=3&s=466)
+
+Hi! I'm Roel, 
+I really like R, programming and open science. I'm involved in software/data carpentry and teaching people the basics of R. 
+
+I often find myself building tools for personal use that are useful for others as well. For example I'm working on a [tool that documents your dataset](https://github.com/RMHogervorst/summarize_dat "github, summarize dat") and useful [templates](https://github.com/RMHogervorst/templates)for scripts
+and folders. 
+
+I've also created [an R package to access IMDB information](https://github.com/RMHogervorst/imdb "IMDB, available on github") about series, and a package to create [badges](https://github.com/RMHogervorst/badgecreatr "developmental version") for github  [stable version on CRAN]( https://CRAN.R-project.org/package=badgecreatr "CRAN page, `install.packages("badgecreatr")`") .
+I have also created datasets about [werewolves](https://github.com/RMHogervorst/werewolf "werewolf dataset on github: with actual human characteristics") and every line spoken and described in the tvseries [Star Trek The Next Generation](https://github.com/RMHogervorst/TNG). 
+
+
+My current interests are: R, open source, open science and reproducible research. I dabble in text analyses, prediction and automation. Currently predicting and explaining student succes at Leiden University.
+
+
+You can find my [blogposts](http://rmhogervorst.nl/cleancode/ "personal blog") on [r-bloggers](https://www.r-bloggers.com/author/roel-m-hogervorst/ "my posts on r-bloggers")
+
+
+Contact me for issues on [github](https://github.com/RMHogervorst). 
+email hogervorst (dot) rm (at) gmail.com
+
+[linkedIn](https://www.linkedin.com/in/rmhogervorst) *although I am not looking for work right now*
+
