@@ -9,8 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-
 ![avatar of me](https://avatars3.githubusercontent.com/u/9538040?v=3&s=466)
 
 Hi! I'm Roel, 
