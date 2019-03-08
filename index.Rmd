@@ -22,13 +22,14 @@ I often find myself building tools for personal use that are useful for others a
 My current interests are: R, open source, open science and reproducible research. I dabble in text analyses, prediction and automation.
 
 
-You can find my [blogposts](http://rmhogervorst.nl/cleancode/ "personal blog") on [r-bloggers](https://www.r-bloggers.com/author/roel-m-hogervorst/ "my posts on r-bloggers")
+You can find my [blogposts](https://blog.rmhogervorst.nl"personal blog") on [r-bloggers](https://www.r-bloggers.com/author/roel-m-hogervorst/ "my posts on r-bloggers")
 
 
 Contact me for issues on [github](https://github.com/RMHogervorst). 
 email hogervorst (dot) rm (at) gmail.com
 
 [linkedIn](https://www.linkedin.com/in/rmhogervorst) 
+Find me on twitter at <https://twitter.com/RoelMHogervorst>
 
 My keybase is here <https://keybase.io/rmhogervorst/ > 
 
