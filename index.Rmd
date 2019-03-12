@@ -1,7 +1,10 @@
 ---
 title: "About Roel"
 author: "Roel M. Hogervorst"
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
 ---
 
 ```{r setup, include=FALSE}
