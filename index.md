@@ -7,15 +7,13 @@ output:
     highlight: github
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
+
+![Roel](images/roel_user2017.jpeg)
 
 
 Hi! I'm Roel,
 I'm a data scientist and I really like R, programming and open science. I'm involved in software/data carpentry and teaching people the basics of R.
-
-![Roel](images/roel_user2017.jpg)
 
 
 But R is not the only language in the world. I work with Python and SQL too.
