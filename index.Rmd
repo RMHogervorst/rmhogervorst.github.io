@@ -11,11 +11,26 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<hr>
+<div class="h-card">
+Hi I'm
+<span class="p-name">Roel Hogervorst</span> (
+  <span class="p-given-name">Roel</span>
+  <abbr class="p-additional-name">M.</abbr>
+  <span class="p-family-name">Hogervorst</span>
+  <span class="p-honorific-suffix">MSc.</span>
+)
+<img class="u-photo" src="images/roel_user2017.jpg"/>
 
-Hi! I'm Roel,
-I'm a data scientist and I really like R, programming and open science. I'm involved in software/data carpentry and teaching people the basics of R.
+on most platforms (github, gitlab, etc.) I go by
+<span class="p-nickname">RMHogervorst</span>.
 
-![Roel](images/roel_user2017.jpg)
+Currently I'm a <span class="p-job-title">Data Scientist</span> at
+<span class="p-org">Ordina</span>
+This entry was last updated at <span class="dt-updated">2021-04-19</span>.
+</div>
+<hr>
+I really like R, programming and data engineering. 
 
 
 But R is not the only language in the world. I work with Python and SQL too.
@@ -25,13 +40,23 @@ I often find myself building tools for personal use that are useful for others a
 My current interests are: R, open source, open science and reproducible research. I dabble in text analyses, prediction and automation.
 
 
-You can find my [blogposts](https://blog.rmhogervorst.nl"personal blog") on [r-bloggers](https://www.r-bloggers.com/author/roel-m-hogervorst/ "my posts on r-bloggers")
+You can find my <a href="https://blog.rmhogervorst.nl" rel="me">blogposts here</a>. R-specific posts (most of my blogposts) are also syndicated to [r-bloggers](https://www.r-bloggers.com/author/roel-m-hogervorst/ "my posts on r-bloggers") and I syndicate posts to <a href="https://dev.to/rmhogervorst" rel="me">dev.to</a> too.
+When I have half-finished work, that nevertheless needs a place to live, I post it to my secondary blog <a href="https://notes.rmhogervorst.nl/" rel="me"> notes.rmhogervorst.nl </a>
+
+You can find me on many social media platforms:
+
+* I'm on twitter as <a href="https://twitter.com/RoelMHogervorst" rel="me">@RoelMHogervorst</a>. 
+* I'm on <a href="https://www.linkedin.com/in/rmhogervorst" rel="me">linkedIn</a> too
+* I started a mastodon account too <a href="https://mastodon.technology/@rmhogervorst" rel="me">mastodon.technology/@rmhogervorst</a>
+* My keybase is here <https://keybase.io/rmhogervorst/ > though I think most people left keybase
+
+You can find a lot of my work on
+* <a href="https://github.com/RMHogervorst" rel="me">github</a>
+* <a href="https://gitlab.com/rmhogervorst" rel="me">gitlab</a>
+* <a href="https://bitbucket.org/RMHogervorst/" rel="me">bitbucket</a> (not a lot there)
 
 
-Contact me for issues on [github](https://github.com/RMHogervorst).
-email hogervorst (dot) rm (at) gmail.com
+Contact me for issues on <a href="https://github.com/RMHogervorst" rel="me">github</a>.
+Or if you really must, you can email me at hogervorst (dot) rm (at) gmail.com
 
-[linkedIn](https://www.linkedin.com/in/rmhogervorst)
-Find me on twitter at <https://twitter.com/RoelMHogervorst>
 
-My keybase is here <https://keybase.io/rmhogervorst/ >
