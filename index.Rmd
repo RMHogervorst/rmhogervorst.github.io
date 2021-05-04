@@ -27,8 +27,7 @@ on most platforms (github, gitlab, etc.) I go by
 
 Currently I'm a <span class="p-job-title">Data Scientist</span> at
 <span class="p-org">Ordina</span>
-This entry was last updated at <span class="dt-updated">2021-04-19</span>.
-</div>
+This entry was last updated at <span class="dt-updated">`r as.character(Sys.Date())`</span>.
 <hr>
 
 <div class="p-note">
@@ -62,3 +61,4 @@ Contact me for issues on <a href="https://github.com/RMHogervorst" rel="me">gith
 Or if you really must, you can email me at hogervorst (dot) rm (at) gmail.com
 </div>
 <a class="u-url" rel="me" href="http://rmhogervorst.nl/>You are now on rmhogervorst.nl </a>
+</div>
