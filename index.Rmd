@@ -30,6 +30,8 @@ Currently I'm a <span class="p-job-title">Data Scientist</span> at
 This entry was last updated at <span class="dt-updated">2021-04-19</span>.
 </div>
 <hr>
+
+<div class="p-note">
 I really like R, programming and data engineering. 
 
 
@@ -58,5 +60,5 @@ You can find a lot of my work on
 
 Contact me for issues on <a href="https://github.com/RMHogervorst" rel="me">github</a>.
 Or if you really must, you can email me at hogervorst (dot) rm (at) gmail.com
-
-
+</div>
+<a class="u-url" rel="me" href="http://rmhogervorst.nl/>You are now on rmhogervorst.nl </a>
