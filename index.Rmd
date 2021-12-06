@@ -20,12 +20,13 @@ Hi I'm
   <span class="p-family-name">Hogervorst</span>
   <span class="p-honorific-suffix">MSc.</span>
 )
+<br>
 <img class="u-photo" src="images/roel_user2017.jpg"/>
 
 on most platforms (github, gitlab, etc.) I go by
 <span class="p-nickname">RMHogervorst</span>.
 
-Currently I'm a <span class="p-job-title">Data Scientist</span> at
+Currently I'm a <span class="p-job-title">Data Scientist / Data Engineer</span> at
 <span class="p-org">Ordina</span>
 This entry was last updated at <span class="dt-updated">`r as.character(Sys.Date())`</span>.
 <hr>
@@ -54,7 +55,9 @@ You can find me on many social media platforms:
 You can find a lot of my work on
 * <a href="https://github.com/RMHogervorst" rel="me">github</a>
 * <a href="https://gitlab.com/rmhogervorst" rel="me">gitlab</a>
-* <a href="https://bitbucket.org/RMHogervorst/" rel="me">bitbucket</a> (not a lot there)
+* <a href="https://bitbucket.org/RMHogervorst/" rel="me">bitbucket</a> (not a lot there).
+
+All my github R packages can be viewed in r-universe too: [![:total status badge](https://rmhogervorst.r-universe.dev/badges/:total)](https://rmhogervorst.r-universe.dev)
 
 
 Contact me for issues on <a href="https://github.com/RMHogervorst" rel="me">github</a>.
