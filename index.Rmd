@@ -49,7 +49,7 @@ You can find me on many social media platforms:
 
 * I'm on twitter as <a href="https://twitter.com/RoelMHogervorst" rel="me">@RoelMHogervorst</a>. 
 * I'm on <a href="https://www.linkedin.com/in/rmhogervorst" rel="me">linkedIn</a> too
-* I started a  <a rel="me" href="https://mastodon.technology/@rmhogervorst">Mastodon</a> account too.
+* I started a  <a rel="me" href="https://mastodon.world/@rmhogervorst">Mastodon</a> account too.
 * My keybase is here <https://keybase.io/rmhogervorst/ > though I think most people left keybase
 
 You can find a lot of my work on
