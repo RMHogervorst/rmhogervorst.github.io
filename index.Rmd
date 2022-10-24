@@ -10,6 +10,10 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<meta property="og:type" content="profile">
+<meta property="profile:first_name" content="Roel M.">
+<meta property="profile:last_name" content="Hogervorst">
+<meta property="profile:username" content="rmhogervorst"> 
 
 <hr>
 <div class="h-card">
