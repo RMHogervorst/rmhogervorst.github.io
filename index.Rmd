@@ -14,6 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 <meta property="profile:first_name" content="Roel M.">
 <meta property="profile:last_name" content="Hogervorst">
 <meta property="profile:username" content="rmhogervorst"> 
+<meta class="u-url" rel="me" href="http://rmhogervorst.nl/"> You are now on rmhogervorst.nl </a>
+
 
 <hr>
 <div class="h-card">
@@ -40,7 +42,7 @@ I really like R, programming and data engineering.
 
 
 But R is not the only language in the world. I work with Python and SQL too.
-I try to update this page, but if you want to see what I'm currently working on, you should check out my github profile (I develop almost everything in  the open) on <https:://github.com/rmhogervorst> .
+I try to update this page, but if you want to see what I'm currently working on, you should check out my github profile (I develop almost everything in the open) on <https:://github.com/rmhogervorst> .
 
 I often find myself building tools for personal use that are useful for others as well.
 My current interests are: R, open source, open science and reproducible research. I dabble in text analyses, prediction and automation.
@@ -54,7 +56,7 @@ You can find me on many social media platforms:
 * I'm on twitter as <a href="https://twitter.com/RoelMHogervorst" rel="me">@RoelMHogervorst</a>. 
 * I'm on <a href="https://www.linkedin.com/in/rmhogervorst" rel="me">linkedIn</a> too
 * I started a  <a rel="me" href="https://mastodon.world/@rmhogervorst">Mastodon</a> account too.
-* My keybase is here <https://keybase.io/rmhogervorst/ > though I think most people left keybase
+* My keybase is here <https://keybase.io/rmhogervorst/> though I think most people left keybase
 
 You can find a lot of my work on
 * <a href="https://github.com/RMHogervorst" rel="me">github</a>
@@ -67,5 +69,4 @@ All my github R packages can be viewed in r-universe too: [![:total status badge
 Contact me for issues on <a href="https://github.com/RMHogervorst" rel="me">github</a>.
 Or if you really must, you can email me at hogervorst (dot) rm (at) gmail.com
 </div>
-<a class="u-url" rel="me" href="http://rmhogervorst.nl/>You are now on rmhogervorst.nl </a>
 </div>
